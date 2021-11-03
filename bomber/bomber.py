@@ -24,7 +24,7 @@ print("i'm not responsible for any damage caused")
 print("to stop the attack, close the application")
 print(" ")
 
-
+input("start attack? >> ")
 
 webhook1 = linecache.getline('webhooks.txt', 1)
 webhook2 = linecache.getline('webhooks.txt', 2)
