@@ -1,8 +1,5 @@
 # DiscordBomber
 Webhook based discord bombing
 
-it only supports 10 webhooks (code can be modified for more)
-it has an built-in text (could be changed)
-
-
-ik the code sucks, it's my first python code
+just place the webhook id into the webhook.txt file and run bomber.py
+dont forget to place a 2000 character text in text.txt
