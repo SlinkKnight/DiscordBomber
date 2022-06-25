@@ -1,5 +1,4 @@
 # DiscordBomber
-<h3>Webhook based discord bombing</h3><br>
 
 <h2>Installation</h2>
 
