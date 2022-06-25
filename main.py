@@ -11,7 +11,7 @@ payload = {
 
 def spam():
     while 1:
-        for hook in hooks:
+        for hook in hooks.readlines():
             r = requests.post(data=payload, url=hook)
             time.sleep(0.1)
 
